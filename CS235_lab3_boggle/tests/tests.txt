@@ -1,0 +1,13 @@
+# 00: given
+# 01: An empty dictionary file.
+# 02: Boards of various sizes such as [9, 16, and] 25.
+# 03: Check that words cannot be made that are too short.
+# 04: Check that words can be made with multi-letter tiles.
+# 05: Check that words cannot be made by reusing tiles.
+# 06: Check that words can be found in all directions.
+# 07: Check that words cannot be made by skipping tiles.
+# 08: Check that words cannot be made by wrapping around at the edge of the board.
+
+# 10: lines in file do not equal lines on board
+# 11: mixed case tiles
+# 12: mixed case dictionary
